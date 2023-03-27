@@ -5,10 +5,10 @@
 <p>Este formulário permite que o usuário preencha seus dados pessoais para entrar em contato conosco. Os seguintes dados são solicitados:</p>
 
 <ul>
-  <li><strong>Nome completo:</strong> campo de texto para digitar o nome completo do usuário.</li>
-  <li><strong>E-mail:</strong> campo de texto para digitar o endereço de e-mail do usuário.</li>
+  <li><strong>Nome completo:</strong> campo de texto para digitar o nome completo da pessoa física.</li>
+  <li><strong>E-mail:</strong> campo de texto para digitar o endereço de e-mail da pessoa física.</li>
   <li><strong>Telefone:</strong> campo de seleção que permite ao usuário escolher o tipo de telefone (casa, trabalho ou celular) e digitar o número correspondente.</li>
-  <li><strong>Endereço:</strong> campos de texto para digitar o logradouro, cidade, estado, CEP e país do usuário.</li>
+  <li><strong>Endereço:</strong> campos de texto para digitar o logradouro, cidade, estado, CEP e país da pessoa física.</li>
 </ul>
 
 <p>Os valores padrões para cada campo são os seguintes:</p>
